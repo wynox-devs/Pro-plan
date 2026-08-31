@@ -1,4 +1,4 @@
-[←Go back](https://wynox-devs.github.io/Subscription-demo/)
+**[←Go back](https://wynox-devs.github.io/Subscription-demo/)**
 # Nox Chat
 -virustotal scan api<br>
 -built-in call<br>
@@ -24,18 +24,24 @@
 -hand writing<br>
 -eraser<br>
 -whiteboard<br>
--HTML/JS edit
+-HTML/JS edit<br>
+-import calender<br>
+-import date<br>
 # NoxID
 -live profile picture<br>
 -banner<br>
 -work<br>
 -ready to hire option<br>
+-puplic email<br>
+-puplic profile<br>
+-puplic phone number<br>
 # NoxFeed
 -upload(up to 20MB)<br>
 -like<br>
 -share<br>
 -comment<br>
 -poll<br>
+-voice<br>
 # Nox Writer
 -Shape<br>
 -font<br>
@@ -45,6 +51,12 @@
 -docx export <br>
 -image<br>
 # NoxCode
+-Edit<br>
+-Save<br>
+-Import<br>
+-Export<br>
+-Preview code<br>
+-AI assitain<br>
 # Nox Sheet
 -choose from menu values<br>
 -color<br>
@@ -52,6 +64,7 @@
 -shape<br>
 -image<br>
 -export excel file<br>
+-live value<br>
 # Nox Presentation 
 -Animation<br>
 -Export powerpoint file<br>
@@ -59,7 +72,9 @@
 # Nox Map
 -Track<br>
 -Save place<br>
+-offline map
 # Aestrix by wynox
 -15 messenges limit/day<br>
 -customize personalize<br>
--voice
+-voice<br>
+-Pro model<br>
