@@ -35,6 +35,7 @@
 -puplic email<br>
 -puplic profile<br>
 -puplic phone number<br>
+-pronouns<br>
 # NoxFeed
 -upload(up to 20MB)<br>
 -like<br>
