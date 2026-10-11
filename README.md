@@ -75,7 +75,7 @@
 -Save place<br>
 -offline map
 # Aestrix by wynox
--15 messenges limit/day<br>
+-35 messenges limit/day<br>
 -customize personalize<br>
 -voice<br>
 -Pro model<br>
